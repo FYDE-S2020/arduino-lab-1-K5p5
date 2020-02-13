@@ -1,23 +1,23 @@
-Name:
+Name:Kevin Pangottil        
 
-EID:
+EID:ksp2235
 
-Team Number:
+Team Number:F9
 
 ## Questions
 
 1. Why does your program need a setup and a loop?
 
-    your answer here
+    THe setup initializes the board, and the loop keeps the LED blinking. 
 
 2. What is the downside to putting all your code in a loop?
 
-    your answer here
-
+   The code will constantly keep running and this can cause the LED to burn out. 
+   
 3. Why does your code need to be compiled?
 
-    your answer here
-
+ So the code can be checked for errors before being uploaded to the board and messing up the board. 
+ 
 4. When lowering the frequency in procedure A, step 4, what is going wrong? Brainstorm some solutions. Dimmers exist in the real world. What is their solution?
 
     your answer here
