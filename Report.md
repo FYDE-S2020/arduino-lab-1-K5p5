@@ -32,11 +32,11 @@ The LED is flickering and the frequency is too low that our eyes can see the dut
  
 7. Profile of UART: Sent X bytes in Y time 
 
-    5 bytes in 6.149 ms
+    6 bytes in 6.149 ms
 
 8. Profile of SPI: Sent X bytes in Y time
 
-    4 bytes in 0.123 ms
+    5 bytes in 0.123 ms
     
 9. Why is SPI so much faster than UART?
 
