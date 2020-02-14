@@ -70,7 +70,7 @@ Procedure A, step 4:
 ![Put path to your image here ->](img/PAs4.PNG)
 
 Procedure B, UART:
-![Put path to your image here ->](img/PBs1.PNG)
+![Put path to your image here ->](img/UARTTimer.PNG)
 
 Procedure B, SPI:
 ![Put path to your image here ->](img/SIPtimer.PNG)
