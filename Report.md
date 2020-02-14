@@ -54,7 +54,8 @@ Con: It relies on the clock
 
 12. list one pro and one con of I2C
 
-    your answer here
+Pro: Simple because it only uses two bidirectional wires
+Con: May become complex as devices increase
 
 13. Why does I2C need external resistors to work?
 
@@ -63,13 +64,13 @@ Con: It relies on the clock
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/PAp1.png)
+![Put path to your image here ->](img/PAp1.PNG)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/PAs4.png)
+![Put path to your image here ->](img/PAs4.PNG)
 
 Procedure B, UART:
-![Put path to your image here ->](img/PBs1.png)
+![Put path to your image here ->](img/PBs1.PNG)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/SIPtimer.png)
+![Put path to your image here ->](img/SIPtimer.PNG)
