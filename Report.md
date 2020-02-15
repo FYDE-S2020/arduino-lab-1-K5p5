@@ -59,7 +59,7 @@ Con: May become complex as devices increase
 
 13. Why does I2C need external resistors to work?
 
-    your answer here
+I2C needs external resistors because its lines are open drain and they require pull down or pull up resistors to because there are only weak ones in the ESP32 and need a lower clock speed. 
 
 ## Screenshots
 
